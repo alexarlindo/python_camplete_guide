@@ -22,7 +22,7 @@
 
 <h3>• Strings〰️</h3>
 
-<h3>• Object Oriented Programing🖥️📦h3>
+<h3>• Object Oriented Programing🖥️📦</h3>
 
 
 ---
